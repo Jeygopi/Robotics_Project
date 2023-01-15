@@ -3,6 +3,6 @@ This is my final year robotics project where I developed a 4 DOF (+1) robot to m
 
 # Demo Video 
 
-![video-1621955989 (2)](https://user-images.githubusercontent.com/69072732/212536429-951d79f1-160d-4d2a-b064-d32f92acff2f.gif)
+{% include youtube.html id="TOlfFMYv7Fk" %}
 
 **Full Video:** https://www.youtube.com/watch?v=TOlfFMYv7Fk
